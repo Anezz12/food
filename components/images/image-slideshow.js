@@ -15,7 +15,7 @@ import classes from "./image-slideshow.module.css";
 const images = [
   { image: burgerImg, alt: "A delicious, juicy burger" },
   { image: curryImg, alt: "A delicious, spicy curry" },
-  { image: dumplingsImg, alt: "Steamed dumplings" },
+  { image: dumplingsImg, alt: "Steamed dumpling" },
   { image: macncheeseImg, alt: "Mac and cheese" },
   { image: pizzaImg, alt: "A delicious pizza" },
   { image: schnitzelImg, alt: "A delicious schnitzel" },
